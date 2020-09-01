@@ -2,8 +2,11 @@
 NexusHQ README
 ------------------------------------------------------------------------
 Author: https://github.com/NealSpellman
+
 Platform: Tested on Windows 10
+
 Version: 1.0
+
 Date: 9/1/20
 
 This is a simple tool made with Unity to visualize LEGO Universe's drop tables.
