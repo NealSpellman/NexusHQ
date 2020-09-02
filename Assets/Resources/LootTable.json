@@ -76,4 +76,5 @@
 	{ "LootMatrixIndex" : 875, "LootTableIndex" : 844, "Rarity" : 4, "Percent" : 1, "MinDrop" : 1, "MaxDrop" : 1},
 	{ "LootMatrixIndex" : 765, "LootTableIndex" : 868, "Rarity" : 4, "Percent" : 0.04, "MinDrop" : 1, "MaxDrop" : 1},
 	{ "LootMatrixIndex" : 765, "LootTableIndex" : 844, "Rarity" : 4, "Percent" : 0.6, "MinDrop" : 1, "MaxDrop" : 1},
+	{ "LootMatrixIndex" : 895, "LootTableIndex" : 866, "Rarity" : 4, "Percent" : 1, "MinDrop" : 1, "MaxDrop" : 2},
 ]
